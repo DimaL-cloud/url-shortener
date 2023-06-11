@@ -6,7 +6,7 @@ Java, Spring Boot, Lombok, Redis
 
 ## System design diagram 💡
 
-![UrlShortenerSystemDesign](https://github.com/DimaL-cloud/url-shortener/assets/78265212/d07dd224-e935-4340-bea4-dc896775b9c6)
+![UrlShortenerSystemDesign](https://github.com/DimaL-cloud/url-shortener/assets/78265212/16193f2a-9ff3-4821-a988-ba81a270a7b1)
 
 ## Details
 For storing hash and url Redis is used because of fast key-value storage. For hashing it uses SHA-256 from Google Guava library.
